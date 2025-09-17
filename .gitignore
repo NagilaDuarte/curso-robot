@@ -1,0 +1,18 @@
+# Arquivos de log e relatórios do Robot Framework
+log.html
+report.html
+output.xml
+selenium-screenshot-*.png
+
+# Pastas e arquivos gerados pelo Python
+__pycache__/
+venv/   
+.venv/
+
+# Pastas e arquivos gerados por outros gerenciadores (ex: Node.js)
+node_modules/
+npm-debug.log
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
