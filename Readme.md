@@ -1,4 +1,4 @@
-# 🚀 Projeto de Automação de Testes com Robot Framework - Organo
+# 🚀 Testando uma aplicação web
 
 ## 📋 Descrição do Projeto
 
@@ -29,7 +29,7 @@ Para rodar os testes, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [texto](URL)
+    git clone [curso-robot](https://github.com/NagilaDuarte/curso-robot.git)
     ```
 
 2.  **Crie e ative o ambiente virtual:**
@@ -60,4 +60,3 @@ Para rodar os testes, siga os passos abaixo:
 ## 🤝 Contato
 
 * **Seu LinkedIn:** [Nágila Duarte](https://www.linkedin.com/in/nagiladuarte/)
-* **Seu GitHub:** [Nágila Duarte](https://github.com/NagilaDuarte)
